@@ -3,6 +3,6 @@
 <div align="center"><h3>Favourite Languages :</h3></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,lua"/>
+    <img src="https://skillicons.dev/icons?i=js,php,lua&theme=light"/>
   </a>
 </p>
