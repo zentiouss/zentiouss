@@ -3,14 +3,14 @@
 <div align="center"><h3>Languages :</h3></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,lua,php"/>
+    <img src="https://skillicons.dev/icons?i=js,lua,php,sql"/>
   </a>
 </p>
 
 <div align="center"><h3>Tools :</h3></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,discord,discordjs,github,robloxstudio,vscode&perline=3"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,discord,discordjs,github,robloxstudio,vscode,phpstorm,webstorm&perline=3"/>
   </a>
 </p>
 
