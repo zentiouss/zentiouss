@@ -3,7 +3,7 @@
 <div align="center"><h3>Languages :</h3></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,lua,php,sql"/>
+    <img src="https://skillicons.dev/icons?i=js,lua,php,mysql"/>
   </a>
 </p>
 
