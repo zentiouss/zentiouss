@@ -13,7 +13,3 @@
     <img src="https://skillicons.dev/icons?i=discord,discordjs,github,vscode&perline=4"/>
   </a>
 </p>
-
-<div align="center">
-  <a href="https://zentiouss.com/">https://zentiouss.com/</a>
-</div>
