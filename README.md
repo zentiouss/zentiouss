@@ -1,13 +1,27 @@
-<div align="center"><h3>Languages :</h3></div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,html,css,mysql"/>
-  </a>
+<div align="center">
+    <img src="/blackbutler-background.png" />
+</div>
+
+<br>
+
+<p align="center" margin-top="50px">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=laravel,nuxt,vue,tailwind,pinia&perline=5"/>
+    </a>
 </p>
 
-<div align="center"><h3>Tools :</h3></div>
+<br>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discordjs,github,vscode&perline=4"/>
-  </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=phpstorm,vscode,gitlab,github&perline=2"/>
+    </a>
+</p>
+
+<br>
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=php,html,js,css,py&perline=5"/>
+    </a>
 </p>
