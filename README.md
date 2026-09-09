@@ -1,9 +1,3 @@
-<div align="center">
-    <img src="/blackbutler-background.png" />
-</div>
-
-<br>
-
 <p align="center" margin-top="50px">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=laravel,nuxt,vue,tailwind,pinia&perline=5"/>
